@@ -2,7 +2,7 @@
 
 # BSQ Labs
 
-**A personal lab of front-end / cross-platform tools and experiments.**
+**A personal incubator for tech experiments and projects.**
 
 [简体中文](./README.zh-CN.md)
 
